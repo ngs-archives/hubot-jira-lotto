@@ -1,0 +1,335 @@
+{
+  "startAt": 0,
+  "maxResults": 50,
+  "total": 41,
+  "issues": [
+    {
+      "key": "BUGS-01",
+      "fields": {
+        "assignee": {
+          "name": "user06"
+        }
+      }
+    },
+    {
+      "key": "BUGS-02",
+      "fields": {
+        "assignee": {
+          "name": "user04"
+        }
+      }
+    },
+    {
+      "key": "BUGS-03",
+      "fields": {
+        "assignee": {
+          "name": "user02"
+        }
+      }
+    },
+    {
+      "key": "BUGS-04",
+      "fields": {
+        "assignee": {
+          "name": "user01"
+        }
+      }
+    },
+    {
+      "key": "BUGS-05",
+      "fields": {
+        "assignee": {
+          "name": "user02"
+        }
+      }
+    },
+    {
+      "key": "BUGS-06",
+      "fields": {
+        "assignee": {
+          "name": "user10"
+        }
+      }
+    },
+    {
+      "key": "BUGS-07",
+      "fields": {
+        "assignee": {
+          "name": "user07"
+        }
+      }
+    },
+    {
+      "key": "BUGS-08",
+      "fields": {
+        "assignee": {
+          "name": "user01"
+        }
+      }
+    },
+    {
+      "key": "BUGS-09",
+      "fields": {
+        "assignee": {
+          "name": "user08"
+        }
+      }
+    },
+    {
+      "key": "BUGS-10",
+      "fields": {
+        "assignee": {
+          "name": "user01"
+        }
+      }
+    },
+    {
+      "key": "BUGS-11",
+      "fields": {
+        "assignee": {
+          "name": "user05"
+        }
+      }
+    },
+    {
+      "key": "BUGS-12",
+      "fields": {
+        "assignee": {
+          "name": "user02"
+        }
+      }
+    },
+    {
+      "key": "BUGS-13",
+      "fields": {
+        "assignee": {
+          "name": "user01"
+        }
+      }
+    },
+    {
+      "key": "BUGS-14",
+      "fields": {
+        "assignee": {
+          "name": "user07"
+        }
+      }
+    },
+    {
+      "key": "BUGS-15",
+      "fields": {
+        "assignee": {
+          "name": "user04"
+        }
+      }
+    },
+    {
+      "key": "BUGS-16",
+      "fields": {
+        "assignee": {
+          "name": "user10"
+        }
+      }
+    },
+    {
+      "key": "BUGS-17",
+      "fields": {
+        "assignee": {
+          "name": "user09"
+        }
+      }
+    },
+    {
+      "key": "BUGS-18",
+      "fields": {
+        "assignee": {
+          "name": "user04"
+        }
+      }
+    },
+    {
+      "key": "BUGS-19",
+      "fields": {
+        "assignee": {
+          "name": "user10"
+        }
+      }
+    },
+    {
+      "key": "BUGS-20",
+      "fields": {
+        "assignee": {
+          "name": "user06"
+        }
+      }
+    },
+    {
+      "key": "BUGS-21",
+      "fields": {
+        "assignee": {
+          "name": "user10"
+        }
+      }
+    },
+    {
+      "key": "BUGS-22",
+      "fields": {
+        "assignee": {
+          "name": "user10"
+        }
+      }
+    },
+    {
+      "key": "BUGS-23",
+      "fields": {
+        "assignee": {
+          "name": "user06"
+        }
+      }
+    },
+    {
+      "key": "BUGS-24",
+      "fields": {
+        "assignee": {
+          "name": "user01"
+        }
+      }
+    },
+    {
+      "key": "BUGS-25",
+      "fields": {
+        "assignee": {
+          "name": "user05"
+        }
+      }
+    },
+    {
+      "key": "BUGS-26",
+      "fields": {
+        "assignee": {
+          "name": "user02"
+        }
+      }
+    },
+    {
+      "key": "BUGS-27",
+      "fields": {
+        "assignee": {
+          "name": "user01"
+        }
+      }
+    },
+    {
+      "key": "BUGS-28",
+      "fields": {
+        "assignee": {
+          "name": "user03"
+        }
+      }
+    },
+    {
+      "key": "BUGS-29",
+      "fields": {
+        "assignee": {
+          "name": "user02"
+        }
+      }
+    },
+    {
+      "key": "BUGS-30",
+      "fields": {
+        "assignee": {
+          "name": "user04"
+        }
+      }
+    },
+    {
+      "key": "BUGS-31",
+      "fields": {
+        "assignee": {
+          "name": "user02"
+        }
+      }
+    },
+    {
+      "key": "BUGS-32",
+      "fields": {
+        "assignee": {
+          "name": "user09"
+        }
+      }
+    },
+    {
+      "key": "BUGS-33",
+      "fields": {
+        "assignee": {
+          "name": "user01"
+        }
+      }
+    },
+    {
+      "key": "BUGS-34",
+      "fields": {
+        "assignee": {
+          "name": "user02"
+        }
+      }
+    },
+    {
+      "key": "BUGS-35",
+      "fields": {
+        "assignee": {
+          "name": "user05"
+        }
+      }
+    },
+    {
+      "key": "BUGS-36",
+      "fields": {
+        "assignee": {
+          "name": "user08"
+        }
+      }
+    },
+    {
+      "key": "BUGS-37",
+      "fields": {
+        "assignee": {
+          "name": "user05"
+        }
+      }
+    },
+    {
+      "key": "BUGS-38",
+      "fields": {
+        "assignee": {
+          "name": "user02"
+        }
+      }
+    },
+    {
+      "key": "BUGS-39",
+      "fields": {
+        "assignee": {
+          "name": "user08"
+        }
+      }
+    },
+    {
+      "key": "BUGS-40",
+      "fields": {
+        "assignee": {
+          "name": "user02"
+        }
+      }
+    },
+    {
+      "key": "BUGS-41",
+      "fields": {
+        "assignee": {
+          "name": "user07"
+        }
+      }
+    }
+  ]
+}

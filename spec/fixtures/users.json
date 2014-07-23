@@ -1,0 +1,116 @@
+{
+  "users": {
+    "items": [
+      {
+        "name": "user01",
+        "emailAddress": "user01@ourcompany.tld",
+        "avatarUrls": {
+          "16x16": "https://hubot-bugfix-test.myjira.tld/useravatar/01?size=xsmall",
+          "24x24": "https://hubot-bugfix-test.myjira.tld/useravatar/01?size=small",
+          "32x32": "https://hubot-bugfix-test.myjira.tld/useravatar/01?size=medium",
+          "48x48": "https://hubot-bugfix-test.myjira.tld/useravatar/01"
+        }
+      },
+      {
+        "name": "user02",
+        "emailAddress": "user02@ourcompany.tld",
+        "avatarUrls": {
+          "16x16": "https://hubot-bugfix-test.myjira.tld/useravatar/02?size=xsmall",
+          "24x24": "https://hubot-bugfix-test.myjira.tld/useravatar/02?size=small",
+          "32x32": "https://hubot-bugfix-test.myjira.tld/useravatar/02?size=medium",
+          "48x48": "https://hubot-bugfix-test.myjira.tld/useravatar/02"
+        }
+      },
+      {
+        "name": "user03",
+        "emailAddress": "user03@ourcompany.tld",
+        "avatarUrls": {
+          "16x16": "https://hubot-bugfix-test.myjira.tld/useravatar/03?size=xsmall",
+          "24x24": "https://hubot-bugfix-test.myjira.tld/useravatar/03?size=small",
+          "32x32": "https://hubot-bugfix-test.myjira.tld/useravatar/03?size=medium",
+          "48x48": "https://hubot-bugfix-test.myjira.tld/useravatar/03"
+        }
+      },
+      {
+        "name": "user04",
+        "emailAddress": "user04@ourcompany.tld",
+        "avatarUrls": {
+          "16x16": "https://hubot-bugfix-test.myjira.tld/useravatar/04?size=xsmall",
+          "24x24": "https://hubot-bugfix-test.myjira.tld/useravatar/04?size=small",
+          "32x32": "https://hubot-bugfix-test.myjira.tld/useravatar/04?size=medium",
+          "48x48": "https://hubot-bugfix-test.myjira.tld/useravatar/04"
+        }
+      },
+      {
+        "name": "user05",
+        "emailAddress": "user05@ourcompany.tld",
+        "avatarUrls": {
+          "16x16": "https://hubot-bugfix-test.myjira.tld/useravatar/05?size=xsmall",
+          "24x24": "https://hubot-bugfix-test.myjira.tld/useravatar/05?size=small",
+          "32x32": "https://hubot-bugfix-test.myjira.tld/useravatar/05?size=medium",
+          "48x48": "https://hubot-bugfix-test.myjira.tld/useravatar/05"
+        }
+      },
+      {
+        "name": "user06",
+        "emailAddress": "user06@ourcompany.tld",
+        "avatarUrls": {
+          "16x16": "https://hubot-bugfix-test.myjira.tld/useravatar/06?size=xsmall",
+          "24x24": "https://hubot-bugfix-test.myjira.tld/useravatar/06?size=small",
+          "32x32": "https://hubot-bugfix-test.myjira.tld/useravatar/06?size=medium",
+          "48x48": "https://hubot-bugfix-test.myjira.tld/useravatar/06"
+        }
+      },
+      {
+        "name": "user07",
+        "emailAddress": "user07@ourcompany.tld",
+        "avatarUrls": {
+          "16x16": "https://hubot-bugfix-test.myjira.tld/useravatar/07?size=xsmall",
+          "24x24": "https://hubot-bugfix-test.myjira.tld/useravatar/07?size=small",
+          "32x32": "https://hubot-bugfix-test.myjira.tld/useravatar/07?size=medium",
+          "48x48": "https://hubot-bugfix-test.myjira.tld/useravatar/07"
+        }
+      },
+      {
+        "name": "user08",
+        "emailAddress": "user08@ourcompany.tld",
+        "avatarUrls": {
+          "16x16": "https://hubot-bugfix-test.myjira.tld/useravatar/08?size=xsmall",
+          "24x24": "https://hubot-bugfix-test.myjira.tld/useravatar/08?size=small",
+          "32x32": "https://hubot-bugfix-test.myjira.tld/useravatar/08?size=medium",
+          "48x48": "https://hubot-bugfix-test.myjira.tld/useravatar/08"
+        }
+      },
+      {
+        "name": "user09",
+        "emailAddress": "user09@ourcompany.tld",
+        "avatarUrls": {
+          "16x16": "https://hubot-bugfix-test.myjira.tld/useravatar/09?size=xsmall",
+          "24x24": "https://hubot-bugfix-test.myjira.tld/useravatar/09?size=small",
+          "32x32": "https://hubot-bugfix-test.myjira.tld/useravatar/09?size=medium",
+          "48x48": "https://hubot-bugfix-test.myjira.tld/useravatar/09"
+        }
+      },
+      {
+        "name": "user10",
+        "emailAddress": "user10@ourcompany.tld",
+        "avatarUrls": {
+          "16x16": "https://hubot-bugfix-test.myjira.tld/useravatar/10?size=xsmall",
+          "24x24": "https://hubot-bugfix-test.myjira.tld/useravatar/10?size=small",
+          "32x32": "https://hubot-bugfix-test.myjira.tld/useravatar/10?size=medium",
+          "48x48": "https://hubot-bugfix-test.myjira.tld/useravatar/10"
+        }
+      },
+      {
+        "name": "user11",
+        "emailAddress": "user11@ourcompany.tld",
+        "avatarUrls": {
+          "16x16": "https://hubot-bugfix-test.myjira.tld/useravatar/11?size=xsmall",
+          "24x24": "https://hubot-bugfix-test.myjira.tld/useravatar/11?size=small",
+          "32x32": "https://hubot-bugfix-test.myjira.tld/useravatar/11?size=medium",
+          "48x48": "https://hubot-bugfix-test.myjira.tld/useravatar/11"
+        }
+      }
+    ]
+  }
+}
