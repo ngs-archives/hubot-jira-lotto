@@ -47,6 +47,20 @@ This Hubot script require **Admin priviledges** for the login account.
 
 Please add the login account to *administrators* group.
 
+Converting JIRA username to chat username to mention
+----------------------------------------------------
+
+If you use different username in your adapter (Campfire, HipChat, Slack ...) and JIRA, you can define converter method in `robot` instance.
+
+```coffeescript
+# scripts/convert-handle.coffee
+module.exports = (robot)->
+  map =
+    ngs: 'atsushi_nagase'
+  robot.convertHandle = (name)->
+    map[name] || name
+```
+
 Author
 ------
 
